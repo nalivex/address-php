@@ -20,7 +20,7 @@
 
 <?php
 
-include("Address-class.php");
+include("address-class.php");
 
 if(!empty($_POST['cep'])){
 	
